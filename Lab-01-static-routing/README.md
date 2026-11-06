@@ -79,6 +79,24 @@ R3(config)# ip route 192.168.12.0 255.255.255.0 192.168.13.2
 
 
 
+## Security note
+
+This is a basic routing lab, so no device security was configured:
+
+- No console, VTY, or enable passwords
+- No SSH (Telnet/console access only, if any)
+- No ACLs or port security
+- Unused switch ports are not shut down
+
+In a production network I would add at least:
+
+- `enable secret` and `service password-encryption`
+- SSH (with a domain name and RSA keys) in place of Telnet, with a local user and `login local` on the VTY lines
+- A login banner and an `exec-timeout` on console and VTY lines
+- ACLs on edge interfaces and shutting down unused ports
+
+These are planned for a later hardening lab.
+
 
 
 &#x20;   **All IP addresses are private lab addresses and do not belong to any real network.**
