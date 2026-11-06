@@ -6,5 +6,5 @@ Hands-on networking labs built in Cisco Packet Tracer while studying for CCNA. E
 
 | Lab | Topic | Skills |
 |-----|-------|--------|
-| [Lab 01: Static Routing](lab-01-static-routing/) | Connecting two LANs through three routers | Static routes, default gateway, troubleshooting |
+| [Lab 01: Static Routing](Lab-01-static-routing/) | Connecting two LANs through three routers | Static routes, default gateway, troubleshooting |
 
