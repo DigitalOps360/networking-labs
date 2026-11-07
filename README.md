@@ -10,5 +10,5 @@ Hands-on networking labs built in Cisco Packet Tracer while studying for CCNA. E
 
 | Lab | Topic | Skills |
 |-----|-------|--------|
-| [Lab 02: Static Routing with Basic Device Security](lab-02-router-basic-security/) | Static routing plus basic router security | Static routes, enable secret, console and VTY passwords, login banner, timezone and clock, troubleshooting |
+| [Lab 02: Static Routing with Basic Device Security](Lab-02-static-routing/) | Static routing plus basic router security | Static routes, enable secret, console and VTY passwords, login banner, timezone and clock, troubleshooting |
 
