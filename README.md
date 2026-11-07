@@ -8,3 +8,4 @@ Hands-on networking labs built in Cisco Packet Tracer while studying for CCNA. E
 |-----|-------|--------|
 | [Lab 01: Static Routing](Lab-01-static-routing/) | Connecting two LANs through three routers | Static routes, default gateway, troubleshooting |
 
+| [Lab 02: Static Routing with Basic Device Security](lab-02-router-basic-security/) | Static routing plus basic router security | Static routes, enable secret, console and VTY passwords, login banner, timezone and clock, troubleshooting |
