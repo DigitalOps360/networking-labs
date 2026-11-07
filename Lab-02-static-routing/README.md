@@ -79,7 +79,7 @@ Full device configs are in [`configs/`](configs/).
 |Login banner|`banner motd # Authorized access only #`|Legal warning to anyone connecting|
 |Disable DNS lookup|`no ip domain-lookup`|Stops the router stalling on mistyped commands|
 
-Devices configured: `<R1 / R2 / R3, list only the ones you actually configured>`
+Devices configured: `<R1 / R2 / R3>`
 
 ## Time and logging
 
